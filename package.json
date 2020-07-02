@@ -1,0 +1,14 @@
+{
+  "name": "minimum-batch-engine-example",
+  "version": "1.0.0",
+  "description": "A minimun easy a fun batch-engine example.",
+  "main": "src/main/index.js",
+  "scripts": {
+    "start": "node src/main/index.js"
+  },
+  "author": "Lusi Andres Julian",
+  "license": "MIT",
+  "dependencies": {
+    "batch-engine": "^1.0.0-alpha9"
+  }
+}
